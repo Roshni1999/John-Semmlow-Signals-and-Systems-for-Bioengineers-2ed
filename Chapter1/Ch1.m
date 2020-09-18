@@ -1,3 +1,4 @@
+% John Semmlow- 'Signals and Systems for Bioengineers, A MATLAB - Based Introduction', 2ndEd
 %  Example 1.5 Program to generate a 500 point vector containing a 4 Hz sine wave 
 %  with a sample frequency of 500 Hz
 
