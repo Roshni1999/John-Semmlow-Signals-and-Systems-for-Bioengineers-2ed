@@ -35,7 +35,7 @@ subplot(2,1,1)
     title('Phase Unwrapped', 'FontSize',14);
   
 %Without unwrapping, the phase spectra are seen to transition upward 
-%sharply whenever they approach ?180 degrees as expected. 
+%sharply whenever they approach 180 degrees as expected. 
 %The unwrapped spectrum is a straight line that decreases smoothly 
-%to ?1500 degrees at 10-Hz.
+%to 1500 degrees at 10-Hz.
     
