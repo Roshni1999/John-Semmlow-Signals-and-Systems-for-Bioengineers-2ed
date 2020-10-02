@@ -56,5 +56,5 @@ ylabel('|C_m(f)|','FontSize',12);
 %consist of individual points spaced 1/T=2.0-Hz apart. The longer
 %pulse produces a spectrum with a shorter peak. Both spectra have the
 %shape of sinc funtion- |sin(x)/x|.
-%Inverse relationship between pulse width and the width of the spectrum:
-%the narrower the pulse the broader the spectrum and vice versa.
+%Inverse relationship between pulse width and the width of the spectrum-
+%The narrower the pulse the broader the spectrum and vice versa.
